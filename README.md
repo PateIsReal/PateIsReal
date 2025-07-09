@@ -1,6 +1,6 @@
-# 🩺🐱 Hi, I'm PateIsReal! 
+# 🩺🐱 Hi, I'm Pate! 
 
-![Nurse Cat](https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif)
+![Nurse Cat](https://github.com/PateIsReal/PateIsReal/blob/main/ChatGPT%20Image%209%20jul%202025%2C%2021_01_33.png)
 
 ## 🐾 About Me
 - 👩‍⚕️ **Name:** Pate (yes, like the fancy dish—very sophisticated)
