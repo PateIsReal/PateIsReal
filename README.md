@@ -17,10 +17,7 @@
 - Can calculate medication doses *and* the optimal number of naps per day
 - Once tried to diagnose the WiFi router because it was “acting sick”
 
-## 🚀 Current Goals
-- Master **Reinforcement Learning** (with positive reinforcement = more snacks)
-- Explore AI applications in **Healthcare**
-- Finally type `pip install tuna` without hitting caps lock
+
 
 ## 📈 GitHub Stats
 ![Pate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PateIsReal&show_icons=true&theme=default)
